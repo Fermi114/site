@@ -1,0 +1,144 @@
+
+.main{
+    margin-top: 0px;
+    margin-bottom: 0px;
+	height: 80px;
+    top: 0px;
+    width: 100%;
+	font-style: normal;
+	font-size: 30px;
+	font-weight: bold;
+	background-color: blueviolet;
+	vertical-align: middle;
+}
+
+.body{
+	margin:0%;
+	padding: 0%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+.MainZagolovok{
+	font-style: normal;
+	margin-top: 50px;
+	height: 70px;
+	font-size: 30px;
+	font-weight: bold;
+	border: 1px solid rgb(231, 84, 84);
+	background-color: rgb(16, 16, 88);
+	color: white;
+	vertical-align: middle;
+}
+
+.ZagTema{
+	margin-bottom: 10%;
+	height: 70px;
+	font-size: 35px;
+	text-align: center;
+	background-color: rgb(30, 31, 75);
+	color: white;
+	vertical-align: middle;
+}
+
+.Podzagalovok{
+	margin-top: 10%;
+	height: 50px;
+	background-color: rgb(54, 84, 138);
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	vertical-align: middle;
+}
+
+.MainText{
+	font-size: 20px;
+	text-align: center;
+}
+
+.image{
+	height: 45px;
+	width: 45px;
+}
+
+.insideimage{
+	width: 100%;
+}
+
+.container{
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: rgb(202, 216, 241);
+	padding-bottom: 20px;
+}
+
+.spisok{
+	font-size: 20px;
+	text-align: left;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-bottom: 0% ;
+	font-style: oblique;
+	border: 2px solid rgb(79, 95, 150);
+	background-color: rgb(193, 190, 218);
+}
+
+.ZagSpis{
+	height: 50px;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.ZaginSpis{
+	height: 50px;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+}
+
+.containerkont{
+	margin-left: 15%;
+	margin-right: 35%;
+	background-color: rgb(202, 216, 241);
+	padding-bottom: 20px;
+}
+
+.kk{
+	position: fixed;
+	background-color: rgb(65, 57, 185);
+	display: flex;
+	width: 100%;
+	justify-content: center;
+}
+
+.logo, .Top_menu{
+	margin-right: 25px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.Top_menu li{
+	margin-right: 25px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.Top_menu a hover{
+	color:rgb(177, 57, 57);
+}
+.Top_menu a{
+	color: white;
+	font-family: arial;
+	font-size: 15px;
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+.logo h1{
+	font-family: arial;
+	font-size: 30px;
+	vertical-align: middle;
+}
